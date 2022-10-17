@@ -1,0 +1,15 @@
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\bin\Debug\net6.0\Tasck25.exe
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\bin\Debug\net6.0\Tasck25.deps.json
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\bin\Debug\net6.0\Tasck25.runtimeconfig.json
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\bin\Debug\net6.0\Tasck25.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\bin\Debug\net6.0\Tasck25.pdb
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.csproj.AssemblyReference.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.AssemblyInfoInputs.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.AssemblyInfo.cs
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.csproj.CoreCompileInputs.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\refint\Tasck25.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.pdb
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\Tasck25.genruntimeconfig.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck25\obj\Debug\net6.0\ref\Tasck25.dll
