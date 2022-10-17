@@ -1,0 +1,15 @@
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\bin\Debug\net6.0\Tasck27.exe
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\bin\Debug\net6.0\Tasck27.deps.json
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\bin\Debug\net6.0\Tasck27.runtimeconfig.json
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\bin\Debug\net6.0\Tasck27.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\bin\Debug\net6.0\Tasck27.pdb
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.csproj.AssemblyReference.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.AssemblyInfoInputs.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.AssemblyInfo.cs
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.csproj.CoreCompileInputs.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\refint\Tasck27.dll
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.pdb
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\Tasck27.genruntimeconfig.cache
+C:\Users\Artyom Pereloma\Desktop\Артём ДЗ\Tascks4\Tasck27\obj\Debug\net6.0\ref\Tasck27.dll
